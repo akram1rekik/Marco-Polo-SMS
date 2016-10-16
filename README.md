@@ -10,4 +10,5 @@ It is possible today to get full directions to your desired address through SMS,
 6. `node index.js`
 
 ## Demo
-https://www.youtube.com/watch?v=ten-oMbnrk8
+![accurate address](https://s21.postimg.org/6t4xy8pqf/direction.jpg)
+![inaccurate address](https://s21.postimg.org/4aj8xk407/false_direction.jpg)
