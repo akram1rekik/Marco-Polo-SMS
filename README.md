@@ -1,5 +1,5 @@
 # Marco-Polo-SMS
-Reaching Destination without internet (SMS Guide travelling)
+It is possible today to get full directions to your desired address through SMS, all without need to have internet !
 
 ## How to build the Project
 1. install [ngrok](https://ngrok.com/download)
