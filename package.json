@@ -1,0 +1,19 @@
+{
+  "name": "marcopolosms",
+  "version": "1.0.0",
+  "description": "It is possible now to get directions to your suitable address via SMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tunisians Hackers",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "googlemapsutil": "^0.1.7",
+    "http": "0.0.0",
+    "striptags": "^2.1.1",
+    "twilio": "^2.11.0"
+  }
+}
